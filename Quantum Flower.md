@@ -1,5 +1,39 @@
 ## Bloch Garden — 3D Quantum Flower Field 🌸
 
+# 🌸 Bloch Garden — 3D Quantum Flower Field  
+**Quantum State Visualization using Qiskit + Plotly**
+
+This project transforms single-qubit quantum states into an interactive 3D "flower field".  
+Each qubit becomes a flower whose stem, petals, and color correspond to its Bloch vector and quantum phase.
+
+---
+
+## 🔮 Features
+- Single-qubit circuit generation using H, Rx, Ry, Rz
+- Statevector extraction using Qiskit
+- Bloch sphere coordinate mapping
+- Quantum phase → RGB color encoding
+- 3D Plotly visualization with:
+  - Stems
+  - Petals
+  - Buds
+  - Ghost Bloch Sphere
+
+---
+
+## 🧠 Real-World Applications
+- Quantum Cryptography (BB84 QKD)
+- Quantum Machine Learning feature maps
+- Single-qubit gate calibration
+- Noise/Decoherence visualization
+- State tomography
+- Quantum outreach & education
+- Quantum-inspired procedural generation
+
+---
+
+## 🖥️ Code
+
 This script generates a 3D “quantum flower garden” by mapping single-qubit quantum states to Bloch vectors and visualizing them with Plotly.  
 Each qubit is turned into a stem, petals, and a glowing bud on top of a ghost Bloch sphere.
 
