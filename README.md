@@ -107,6 +107,7 @@ print(result.get_counts())  # Expect mostly '00' and '11'
 
 <img width="1187" height="321" alt="image" src="https://github.com/user-attachments/assets/a8e9a39e-7300-4560-9a2b-15824d3abbc4" />
 
+Your expected output will have an almost equal divide between '00' and '11'
 
 <br>
 
